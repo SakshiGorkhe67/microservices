@@ -13,4 +13,5 @@ public interface PostRepository extends JpaRepository<Post,Integer> {
     List<Post> searchByTitle(@Param("key")String title);
 
 
+
 }

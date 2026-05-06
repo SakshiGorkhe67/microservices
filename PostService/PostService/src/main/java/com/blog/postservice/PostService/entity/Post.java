@@ -20,4 +20,6 @@ public class Post {
     private String content;
     private String imageName;
     private LocalDateTime addDate;
+
+
 }
